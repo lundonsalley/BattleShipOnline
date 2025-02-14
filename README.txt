@@ -4,12 +4,16 @@ HOW TO PLAY
 
 if you are the server, press s and wait
 
-if you are the client, type in the server's ip adress and then press
+if you are the client, type in the server's ip address and then press
 c once you are ready
+
+
+if you are playing on a single computer, only press c and s for server and client respectively. 
+dont worry about typing in any ip addresses
 
 --------------------------setup--------------------------
 
-during the set up, use the left mouse button to randomize the ships
+during the setup, use the left mouse button to randomize the ships
 
 once you're happy with the arrangement, use the right mouse button to confirm
 
